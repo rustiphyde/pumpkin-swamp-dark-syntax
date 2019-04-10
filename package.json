@@ -1,0 +1,15 @@
+{
+  "name": "pumpkin-swamp-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "This theme reminds of a swamp full of rotting pumpkins...don't ask",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/rustiphyde/pumpkin-swamp-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
